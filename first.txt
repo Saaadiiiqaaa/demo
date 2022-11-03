@@ -3,3 +3,6 @@
 3.tuitions 
 4.code
 5.practise 
+6.recode
+7.sleep
+8.dream
